@@ -57,7 +57,7 @@ warrior_sheet= pygame.image.load("assets/images/warrior/Sprites/warrior.png").co
 wizard_sheet= pygame.image.load("assets/images/wizard/Sprites/wizard.png").convert_alpha()
 
 #load victory image
-victory_img= pygame.image.load("assets/images/icon/victory.png").convert_alpha()
+clsvictory_img= pygame.image.load("assets/images/icon/victory.png").convert_alpha()
 
 #define number of steps in each animation 
 WARRIOR_ANIMATION_STEPS= [10, 8, 1, 7, 7, 3, 7]
