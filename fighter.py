@@ -21,7 +21,7 @@ class Fighter():
         self.attack_type= 0
         self.attack_cooldown= 0
         self.hit= False
-        self.health = 10
+        self.health = 100
         self.alive= True
 
     def load_images(self, sprite_sheet, animation_steps):
@@ -36,7 +36,7 @@ class Fighter():
         return animation_list       
 
     #function for movement - função para movimentação 
-    def move(self, screen_width, screen_height, target, round_over):
+    def move(self, screen_width, screen_height, surface, target, round_over):
         SPEED= 10 
         GRAVITY= 2
         dx= 0 
