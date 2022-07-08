@@ -5,20 +5,13 @@
 # About the Project
 
 É um básico jogo de luta que tem apenas dois lutadores e pode ser
-jogando com dois jogadores.
-
+jogando com dois jogadores. 
 
 # Layout
-## ínicio - Homepage
-![Layout App]() 
-## Descrição dos produtos - Description
-![Layout App]()
-## Admin
-![Layout App]()
-## Lista de produtos - Products list
-![Layout App]()
-## Criar/Editar produto - Edit/Create prodduct
-![Layout App]()
+## ínicio - Star Game
+![Layout App](https://github.com/eduardoaoc/fight-pygame/blob/main/assets/images/start.png) 
+## Final
+![Layout App](https://github.com/eduardoaoc/fight-pygame/blob/main/assets/images/victoryy.png)
 
 
 # Technology used
